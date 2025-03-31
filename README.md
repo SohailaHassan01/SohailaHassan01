@@ -8,8 +8,7 @@
 
 
 
-- 🏢 Electronics and Electrical Communications Engineering Student at Cairo University 
-
+- 🏢 Graduate from Cairo University with a degree in Electronics and Electrical Communications Engineering
 ### Reach me at:
 
 <a href="https://www.linkedin.com/in/sohaila-hassan-45b626223" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -20,15 +19,28 @@
 
 
 ### 🛠 Languages & Tools:
+
+#### Programming Languages:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c&logoColor=563D7c)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio ](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=563D7c)&nbsp;
-![eclipse](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VMWARE](https://img.shields.io/badge/-VMWARE-05122A?style=flat&logo=VMWARE)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+
+#### Tools:
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
+![Proteus](https://img.shields.io/badge/-Proteus-05122A?style=flat&logo=proteus)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=563D7c)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab)&nbsp;
+![VMware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware)&nbsp;
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-05122A?style=flat&logo=easyeda)&nbsp;
+![IAR Embedded Workbench](https://img.shields.io/badge/-IAR%20Embedded%20Workbench-05122A?style=flat&logo=iar)&nbsp;
+![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-05122A?style=flat&logo=stmicroelectronics)&nbsp;
+![Logic Analyzer](https://img.shields.io/badge/-Logic%20Analyzer-05122A?style=flat)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azure-devops)&nbsp;
+![Apache JMeter](https://img.shields.io/badge/-Apache%20JMeter-05122A?style=flat&logo=apache-jmeter)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
+![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=flat)&nbsp;
+![POM](https://img.shields.io/badge/-POM-05122A?style=flat)&nbsp;
